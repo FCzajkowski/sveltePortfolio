@@ -10,10 +10,6 @@
 </script>
 
 <main>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-  </nav>
 
   <Router {routes} />
 </main>
